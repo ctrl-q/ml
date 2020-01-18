@@ -1,0 +1,10 @@
+keras
+matplotlib
+numpy
+pandas
+pathlib
+Pillow
+scipy
+sklearn
+torch
+torchvision
